@@ -1,0 +1,11 @@
+/* Style for background Image */
+#background-img{
+    width: 100vw;
+    background-image: url("./Images/leaves_plant_green_118405_1920x1080.jpg");
+    height: 100vh;
+}
+/* Style for input box */
+#search-box{
+    
+    background-color: rgba(0, 0, 0, 0.678);
+}
